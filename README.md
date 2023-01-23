@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeborim&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborim&show_icons=true&theme=radical)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
