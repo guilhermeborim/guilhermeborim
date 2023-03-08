@@ -1,4 +1,5 @@
-### Olá, Me chamo Guilherme Borim, sou estudante de programação com ênfase em Front-End!!
+### Hello, 
+My name is Guilherme Borim, I'm a programming student with an emphasis on Front-End!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeborim&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborim&show_icons=true&theme=radical)
