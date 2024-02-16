@@ -1,20 +1,41 @@
-### Hello, 
-My name is Guilherme Borim, I'm a programming student with an emphasis on Front-End!!
+<a href="https://borim-portfolio.vercel.app/" target="_blank"><img src="https://imgur.com/rwdSFSc.png" /></a> &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeborim&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeborim&show_icons=true&theme=radical)
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá, seja Bem Vindo!
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/guilhermeborim?label=follow&style=social)](https://github.com/guilhermeborim)&nbsp;
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 👨🏻‍💻 &nbsp;Sobre mim.
 
-##
- 
-<div> 
-  <a href="https://instagram.com/djayg_019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:borimdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-machado-404895255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+💡&nbsp; Sou desenvolvedor Web & Front-End a quase 2 anos.\
+💻 &nbsp; Atualmente estou me aprofundando nos estudos, realizando projetos e dando uma espiadinha em Desenvolvimento Mobile.\
+🎓&nbsp; Me formei pela EBAC em Front-End e cursando Análise e Desenvolvimento de Sistemas.\
+🌱 &nbsp; Estou no caminho certo para aprender mais sobre Inteligência Artificial, Mobile e Visão Computacional.\
+✍️ &nbsp; No meu tempo livre, gosto de uma boa leitura, socializar e assistir filmes e séries.\
+💬 &nbsp; Sinta-se à vontade para entrar em contato comigo para consultoria geral ou discussões sobre os tópicos mencionados acima!\
+✉️ &nbsp; Pode me enviar um email para borimdev@gmail.com. Responderei o mais rápido possível!\
+📄 &nbsp; Pode conferir meu currículo [Currículo](https://drive.google.com/file/d/1wQTscZPQWm5DpRbn_Yh3U8rirBCd2DuQ/view?usp=sharing) para mais detalhes sobre experiência profissional.
+
+
+### 🛠 &nbsp;Stacks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![NodeJs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+### 📫 &nbsp; Como entrar em contato comigo:
+
+
+<a href="https://www.linkedin.com/in/guilherme-borim/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:borimdev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
