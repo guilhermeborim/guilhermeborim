@@ -6,13 +6,13 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim.
 
 💡&nbsp; Sou desenvolvedor Web & Front-End a quase 2 anos.\
-💻 &nbsp; Atualmente estou me aprofundando nos estudos, realizando projetos e dando uma espiadinha em Desenvolvimento Mobile.\
+💻 &nbsp; Atualmente estou trabalhando na área, realizando projetos e estudando Desenvolvimento Mobile.\
 🎓&nbsp; Me formei pela EBAC em Front-End e cursando Análise e Desenvolvimento de Sistemas.\
-🌱 &nbsp; Estou no caminho certo para aprender mais sobre Inteligência Artificial, Mobile e Visão Computacional.\
+🌱 &nbsp; Estou no caminho para aprender mais sobre Inteligência Artificial, Mobile e Visão Computacional.\
 ✍️ &nbsp; No meu tempo livre, gosto de uma boa leitura, socializar e assistir filmes e séries.\
-💬 &nbsp; Sinta-se à vontade para entrar em contato comigo para consultoria geral ou discussões sobre os tópicos mencionados acima!\
+💬 &nbsp; Sinta-se à vontade para entrar em contato comigo!\
 ✉️ &nbsp; Pode me enviar um email para borimdev@gmail.com. Responderei o mais rápido possível!\
-📄 &nbsp; Pode conferir meu currículo [Currículo](https://drive.google.com/file/d/1wQTscZPQWm5DpRbn_Yh3U8rirBCd2DuQ/view?usp=sharing) para mais detalhes sobre experiência profissional.
+📄 &nbsp; Pode conferir meu currículo [Currículo](https://drive.google.com/file/d/1DAm9Xuk0H9u1AL_t9i0-xH5sDrDphD-5/view?usp=sharing) para mais detalhes sobre experiência profissional.
 
 
 ### 🛠 &nbsp;Stacks
@@ -23,15 +23,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=postgresql)&nbsp;
 
 
 ### 📫 &nbsp; Como entrar em contato comigo:
